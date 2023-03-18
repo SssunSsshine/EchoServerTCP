@@ -1,0 +1,8 @@
+D:\User\unic\КМ\EchoServer\EchoServerTCP\EchoServerTCP\bin\Debug\EchoServerTCP.exe.config
+D:\User\unic\КМ\EchoServer\EchoServerTCP\EchoServerTCP\bin\Debug\EchoServerTCP.exe
+D:\User\unic\КМ\EchoServer\EchoServerTCP\EchoServerTCP\bin\Debug\EchoServerTCP.pdb
+D:\User\unic\КМ\EchoServer\EchoServerTCP\EchoServerTCP\obj\Debug\EchoServerTCP.csproj.AssemblyReference.cache
+D:\User\unic\КМ\EchoServer\EchoServerTCP\EchoServerTCP\obj\Debug\EchoServerTCP.csproj.SuggestedBindingRedirects.cache
+D:\User\unic\КМ\EchoServer\EchoServerTCP\EchoServerTCP\obj\Debug\EchoServerTCP.csproj.CoreCompileInputs.cache
+D:\User\unic\КМ\EchoServer\EchoServerTCP\EchoServerTCP\obj\Debug\EchoServerTCP.exe
+D:\User\unic\КМ\EchoServer\EchoServerTCP\EchoServerTCP\obj\Debug\EchoServerTCP.pdb

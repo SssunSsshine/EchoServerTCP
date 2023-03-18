@@ -1,0 +1,8 @@
+D:\User\unic\КМ\EchoServer\EchoServerTCP\EchoCLient\bin\Debug\EchoCLient.exe.config
+D:\User\unic\КМ\EchoServer\EchoServerTCP\EchoCLient\bin\Debug\EchoCLient.exe
+D:\User\unic\КМ\EchoServer\EchoServerTCP\EchoCLient\bin\Debug\EchoCLient.pdb
+D:\User\unic\КМ\EchoServer\EchoServerTCP\EchoCLient\obj\Debug\EchoCLient.csproj.AssemblyReference.cache
+D:\User\unic\КМ\EchoServer\EchoServerTCP\EchoCLient\obj\Debug\EchoCLient.csproj.SuggestedBindingRedirects.cache
+D:\User\unic\КМ\EchoServer\EchoServerTCP\EchoCLient\obj\Debug\EchoCLient.csproj.CoreCompileInputs.cache
+D:\User\unic\КМ\EchoServer\EchoServerTCP\EchoCLient\obj\Debug\EchoCLient.exe
+D:\User\unic\КМ\EchoServer\EchoServerTCP\EchoCLient\obj\Debug\EchoCLient.pdb
